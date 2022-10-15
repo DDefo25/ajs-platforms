@@ -1,6 +1,6 @@
 {
-  "name": "@ddefo25/ajs",
-  "version": "1.0.0",
+  "name": "@ddefo25/ajs-platforms",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
